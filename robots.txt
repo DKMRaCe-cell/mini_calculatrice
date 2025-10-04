@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dkmrace-cell.github.io/mini_calculatrice/sitemap.xml
